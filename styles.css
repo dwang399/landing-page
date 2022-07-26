@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1f2937;
+    padding: 0 16px;
+}
+
+.headlink {
+   font-size: 24px;
+   color: #F9FAF8;
+}
+
+.topright {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
