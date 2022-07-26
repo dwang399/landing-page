@@ -1,3 +1,4 @@
+/* This is the HEADER CSS */
 body {
     margin: 0;
 }
@@ -7,7 +8,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background: #1f2937;
-    padding: 0 16px;
+    padding: 32px 64px;
 }
 
 .headlink {
@@ -21,4 +22,29 @@ body {
     gap: 32px;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+/* This is the Hero CSS */
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    background: #1f2937;
+    gap: 72px;
+    padding: 32px 64px;
+}
+
+.herotext {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.subtext {
+    color: #E5E7EB;
+}
+
+img {
+    width: 600px;
+    height: auto;
 }
