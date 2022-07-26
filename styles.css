@@ -53,13 +53,11 @@ button {
     color: #F9FAF8;
     border-radius: 12px;
     padding: 16px 8px;
+    font-size: 18px;
 }
 
 .subtext {
     color: #E5E7EB;
+    font-size: 18px;
 }
 
-img {
-    width: 600px;
-    height: auto;
-}
