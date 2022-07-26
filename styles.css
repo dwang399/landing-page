@@ -107,3 +107,26 @@ button {
 
 /* This is the quote CSS */
 
+.testim {
+    background: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 100px;
+}
+
+.quote {
+    width: 700px;
+    text-align: center;
+    align-self: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+ 
+.person {
+    text-align: right;
+    margin-right: 300px;
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 800;
+}
