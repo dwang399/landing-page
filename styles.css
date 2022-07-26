@@ -3,6 +3,9 @@ body {
     margin: 0;
 }
 
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .top {
     display: flex;
     justify-content: space-between;
@@ -25,6 +28,10 @@ body {
 }
 
 /* This is the Hero CSS */
+
+.mainpic {
+    width: 600px;
+}
 
 .hero {
     display: flex;
@@ -61,3 +68,44 @@ button {
     font-size: 18px;
 }
 
+/* This is the info CSS */
+
+.infopic {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin: 36px 36px;
+}
+
+.one, .two, .three, .four {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 200px;
+}
+
+.info {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    margin: 24px 24px;
+}
+
+.mid {
+    background: #F9FAF8 ;
+
+}
+
+.text {
+    text-align: center;
+    font-size: 18px;
+    color: #1f2937;
+}
