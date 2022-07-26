@@ -38,6 +38,21 @@ body {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    margin: 16px 0;
+}
+
+.lefthero {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    color: #F9FAF8;
+    border-radius: 12px;
+    padding: 16px 8px;
 }
 
 .subtext {
