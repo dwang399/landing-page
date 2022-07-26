@@ -132,3 +132,35 @@ button {
 }
 
 /* This is the Call to Action CSS */
+
+.signup {
+    background: #3882F6;
+    margin: 100px 200px;
+    border-radius: 12px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px;
+}
+
+.toptext {
+    font-size: 24px;
+    font-weight: 800;
+    color: #E5E7EB;
+}
+
+.bottomtext {
+    color: #1f2937;
+}
+
+.signupbutton {
+    border-style: solid;
+    border-color: #E5E7EB;
+    align-self: center;
+    margin: 24px 24px;
+}
