@@ -164,3 +164,12 @@ button {
     align-self: center;
     margin: 24px 24px;
 }
+
+/* This is the footer CSS */
+
+.mainfoot {
+    font-size: 18px;
+    color: #F9FAF8;
+    text-align: center;
+    
+}
