@@ -167,9 +167,10 @@ button {
 
 /* This is the footer CSS */
 
-.mainfoot {
+.foottext {
     font-size: 18px;
     color: #F9FAF8;
     text-align: center;
-    
+    background: #1f2937;
+    padding: 24px 24px;
 }
